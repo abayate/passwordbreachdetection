@@ -1,0 +1,1 @@
+Created a simple Python script to analyze records from a text file, extracting and computing MD5 hashes to detect compromised passwords in the Ashley Madison breach. The script converts user-provided input into an MD5 hash and checks it against compromised hashes from the 2015 Ashley Madison breach, determining if the password has been exposed. (More on Portfolio)
